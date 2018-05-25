@@ -3,10 +3,10 @@
 
 ### The motivation
 I wanted to learn cool technologies but got left out of ideas for the project. 
-Since I'm a earlyadopter of cryptocurrencies I thought what the hell. Lets take good stuff that already exist and implement them together. 
-So, there it is, the comparison site and investment tracker all in one. Hope the big guys won't sue me. 
+Since I'm a earlyadopter of cryptocurrencies I thought what the hell. Let's take good stuff and implement them altogether. 
+So there it is, the comparison site and investment tracker all-in-one. Hope the big guys won't sue me. 
 
-Enjoy
+Enjoy =)
 
 The kudos for the ideas go to guys who wrote following articles:
 * https://developer.okta.com/blog/2017/09/06/build-a-cryptocurrency-comparison-site-with-vuejs
