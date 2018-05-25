@@ -11,3 +11,5 @@ Enjoy =)
 The kudos for the ideas go to guys who wrote following articles:
 * https://developer.okta.com/blog/2017/09/06/build-a-cryptocurrency-comparison-site-with-vuejs
 * https://scotch.io/tutorials/build-a-secure-to-do-app-with-vuejs-aspnet-core-and-okta
+
+Soon more info about project and setup!
