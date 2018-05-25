@@ -3,7 +3,7 @@
 
 ### The motivation
 I wanted to learn cool technologies but got left out of ideas for the project. 
-Since I'm consider myself an earlyadopter of cryptocurrencies I thought what the hell. Let's take good stuff and implement them into something useful. 
+Since I consider myself an earlyadopter of cryptocurrencies I thought what the hell. Let's take good stuff and implement them into something useful. 
 So there it is, the comparison site and investment tracker all-in-one. Hope the big guys won't sue me. 
 
 Enjoy =)
