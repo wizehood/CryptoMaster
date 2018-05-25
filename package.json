@@ -1,0 +1,47 @@
+{
+    "name": "crypto.master",
+    "private": true,
+    "version": "0.0.0",
+    "devDependencies": {
+        "@types/webpack-env": "^1.13.5",
+        "aspnet-webpack": "^2.0.3",
+        "babel-plugin-transform-object-rest-spread": "^6.26.0",
+        "css-loader": "^0.25.0",
+        "event-source-polyfill": "^0.0.7",
+        "extract-text-webpack-plugin": "^2.1.2",
+        "file-loader": "^0.9.0",
+        "isomorphic-fetch": "^2.2.1",
+        "jquery": "^3.3.1",
+        "node-sass": "^4.5.3",
+        "sass-loader": "^6.0.6",
+        "style-loader": "^0.13.1",
+        "url-loader": "^0.5.7",
+        "webpack": "^2.7.0",
+        "webpack-hot-middleware": "^2.21.0"
+    },
+    "dependencies": {
+        "@okta/okta-auth-js": "^1.17.0",
+        "axios": "^0.15.3",
+        "babel-core": "^6.26.0",
+        "babel-loader": "^7.1.2",
+        "babel-plugin-transform-async-to-generator": "^6.24.1",
+        "babel-plugin-transform-runtime": "^6.23.0",
+        "babel-polyfill": "^6.26.0",
+        "babel-preset-env": "^1.6.1",
+        "babel-preset-stage-3": "^6.24.1",
+        "core-js": "^2.5.3",
+        "vue": "^2.5.16",
+        "vue-loader": "^14.0.3",
+        "vue-router": "^3.0.1",
+        "vue-server-renderer": "^2.5.16",
+        "vue-template-compiler": "^2.5.16",
+        "vue2-filters": "^0.3.0",
+        "vuex": "^2.5.0",
+        "vuex-router-sync": "^4.3.2"
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not ie <= 8"
+    ]
+}
