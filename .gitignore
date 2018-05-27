@@ -18,3 +18,7 @@ npm-debug.log
 
 # VS specific
 .vs
+*.sln
+
+# JS specific
+dist/main.js

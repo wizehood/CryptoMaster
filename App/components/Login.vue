@@ -8,9 +8,9 @@
     </p>
     <form @submit.prevent="login">
       <label for="email">Email</label>
-      <input id="email" v-model="email" placeholder="you@example.com">
+      <input id="email" v-model="email">
       <label for="password">Password</label>
-      <input id="password" v-model="password" placeholder="password" type="password">
+      <input id="password" v-model="password" type="password">
       <button type="submit">Log in</button>
       <span>or</span>
       <router-link to="/signup">Sign up</router-link>   
@@ -67,7 +67,7 @@ h4 {
 }
 
 label {
-  display: block;
+  margin: 0;
 }
 
 input {
