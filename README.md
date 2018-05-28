@@ -9,6 +9,7 @@ So there it is, the comparison site and investment tracker all-in-one. Hope the 
 The kudos to authors:
 * https://developer.okta.com/blog/2017/09/06/build-a-cryptocurrency-comparison-site-with-vuejs
 * https://scotch.io/tutorials/build-a-secure-to-do-app-with-vuejs-aspnet-core-and-okta
+* https://sabe.io/tools/cryptocurrency-profit-calculator
 
 ### The prerequisites
 Few things you need to get done before starting the project:
