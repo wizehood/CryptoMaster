@@ -15,9 +15,10 @@ The kudos to authors:
 Few things you need to get done before starting the project:
 * install Node.js environment at https://www.npmjs.com/get-npm
 * install .Net core SDK at https://www.microsoft.com/net/download/windows
-
 * within your CLI, clone repository and navigate to root folder (/CryptoMaster)
 * hit `npm install` to restore all required node packages for the web project
 * hit `dotnet restore` to restore all required dependencies for the backend project
-* hit `dotnet user-secrets set okta:token 00CtQT5w4p5eewBneVHEIJ4MPPSA4Xw3fAQBhRyRgu` to set token needed to communicate with Okta API service
 * hit `dotnet run` to start the project and navigate to `http://localhost:50237`
+
+### Published version
+If you would rather just play with the app hit check it out on [Azure websites](https://cryptomaster.azurewebsites.net "CryptoMaster Homepage") 

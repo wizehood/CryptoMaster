@@ -7,17 +7,20 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Okta.Sdk;
 using Okta.Sdk.Configuration;
+using System;
+using System.IO;
 
 namespace CryptoMaster
 {
     public class Startup
     {
+        public IConfiguration Configuration { get; }
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -38,7 +41,7 @@ namespace CryptoMaster
             services.AddSingleton<IOktaClient>(new OktaClient(new OktaClientConfiguration
             {
                 OrgUrl = "https://dev-740276.oktapreview.com",
-                Token = Configuration["okta:token"]
+                Token = "00CtQT5w4p5eewBneVHEIJ4MPPSA4Xw3fAQBhRyRgu"
             }));
         }
 
