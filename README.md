@@ -21,4 +21,4 @@ Few things you need to get done before starting the project:
 * hit `dotnet run` to start the project and navigate to `http://localhost:50237`
 
 ### Published version
-If you would rather just play with the app hit check it out on [Azure websites](https://cryptomaster.azurewebsites.net "CryptoMaster Homepage") 
+If you would rather just play with the app, check it out on [Azure websites](https://cryptomaster.azurewebsites.net "CryptoMaster Homepage") 
